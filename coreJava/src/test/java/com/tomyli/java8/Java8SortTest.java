@@ -13,6 +13,8 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 
 /**
+ * JAVA排序，使用以前的模式与使用JDK8的Lambda方式
+ * <p>
  * Created by tomyli on 2017/3/30.
  */
 public class Java8SortTest {
