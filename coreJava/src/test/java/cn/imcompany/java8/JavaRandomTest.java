@@ -1,4 +1,4 @@
-package com.tomyli.java8;
+package cn.imcompany.java8;
 
 import org.apache.commons.lang3.RandomUtils;
 import org.apache.commons.math3.random.RandomDataGenerator;

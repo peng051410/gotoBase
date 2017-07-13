@@ -1,4 +1,4 @@
-package com.tomyli.entity;
+package cn.imcompany.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

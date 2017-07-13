@@ -1,7 +1,7 @@
-package com.tomyli.java8;
+package cn.imcompany.java8;
 
 import com.google.common.collect.Lists;
-import com.tomyli.entity.Human;
+import cn.imcompany.entity.Human;
 import org.junit.Assert;
 import org.junit.Test;
 
